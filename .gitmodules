@@ -13,3 +13,12 @@
 [submodule "sqli/sqlmap"]
 	path = sqli/sqlmap
 	url = ./sqli/sqlmap
+[submodule "sqli/bbqsql"]
+	path = sqli/bbqsql
+	url = ./sqli/bbqsql
+[submodule "sqli/PowerUpSQL"]
+	path = sqli/PowerUpSQL
+	url = ./sqli/PowerUpSQL
+[submodule "sqli/commix"]
+	path = sqli/commix
+	url = ./sqli/commix
