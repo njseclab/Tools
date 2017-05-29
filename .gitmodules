@@ -1,11 +1,15 @@
 [submodule "fuzz/winafl"]
 	path = fuzz/winafl
-	url = https://github.com/njseclab/winafl.git
-  
+	url = ./fuzz/winafl
 [submodule "fuzz/NodeFuzz"]
 	path = fuzz/NodeFuzz
-	url = https://github.com/njseclab/NodeFuzz.git
-  
+	url = ./fuzz/NodeFuzz
 [submodule "fuzz/oss-fuzz"]
 	path = fuzz/oss-fuzz
-	url = https://github.com/njseclab/oss-fuzz.git
+	url = ./fuzz/oss-fuzz
+[submodule "webscan/arachni"]
+	path = webscan/arachni
+	url = ./webscan/arachni
+[submodule "sqli/sqlmap"]
+	path = sqli/sqlmap
+	url = ./sqli/sqlmap
